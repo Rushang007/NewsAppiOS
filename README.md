@@ -51,3 +51,7 @@ The News Reader App is a simple iOS application built using SwiftUI and follows 
 - Add smooth animations for transitions between screens.
 - Use custom fonts and icons for a unique style.
 - Optimize the layout for all screen sizes, including iPhones and iPads.
+
+## NewsApp
+
+![](https://github.com/Rushang007/NewsAppiOS/blob/main/NewsApp.gif)
